@@ -26,11 +26,11 @@ cd AI_Face_Swap_Roop/roop
 ```
 cd roop
 ```
-3. Gerekli bağımlılıkları yükleyin:
+### 3. Gerekli bağımlılıkları yükleyin:
 ```
 pip install -r requirements.txt
 ```
-4. Model dosyasını indirin:
+### 4. Model dosyasını indirin:
 Aşağıdaki modeli indirip roop dizinine yerleştirin:
 
 inswapper_128.onnx
