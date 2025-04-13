@@ -86,3 +86,13 @@ Program ilk çalıştırmada bazı modelleri otomatik indirir.
 Hata alırsanız, terminaldeki mesajları dikkatlice inceleyin.
 
 Daha fazla bilgi için orijinal Roop GitHub sayfasını ziyaret edebilirsiniz.
+
+<img width="451" alt="Image" src="https://github.com/user-attachments/assets/1e086436-2d25-4b65-b1e7-8ab964c858e5" />
+
+![Image](https://github.com/user-attachments/assets/1acbe331-f05e-4598-8c9a-3cd4cabfc0b2)
+
+![Image](https://github.com/user-attachments/assets/4b8407a6-df78-44fa-904c-1bf8c0378e19)
+
+![Image](https://github.com/user-attachments/assets/46ab75d1-2849-4156-83d7-fc8c16e20461)
+
+
