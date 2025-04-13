@@ -49,12 +49,12 @@ inswapper_128.onnx
 python run.py
 ```
 İlk çalıştırmada bazı ek modeller indirilecektir. Bu işlem internet hızınıza bağlı olarak zaman alabilir.
+-------------------------------------------------------------------------------------
+### Terminal Ekranında Çalıştırmak İçin: 🎯🎯🎯🎯🎯
 
 🔍 Örnek Kullanım Senaryoları
 🎯 1. Basit Görsel Üzerinde Yüz Değişimi:
-bash
-Kopyala
-Düzenle
+
 ```
 python run.py -s kaynak.jpg -t hedef.jpg -o cikti.jpg
 ```
