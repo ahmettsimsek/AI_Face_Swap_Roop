@@ -14,15 +14,23 @@ Bu proje, komut satırı üzerinden çalışan Roop tabanlı bir AI yüz değiş
 
 ## 📦 Kurulum
 
-### 1. Roop klasörüne girin:
+### 1. Bu projeyi bilgisayarınıza klonlayın:
+```
+git clone https://github.com/ahmettsimsek/AI_Face_Swap_Roop.git
+```
+```
+cd AI_Face_Swap_Roop/roop
+```
+
+### 2. Roop klasörüne girin:
 ```
 cd roop
 ```
-2. Gerekli bağımlılıkları yükleyin:
+3. Gerekli bağımlılıkları yükleyin:
 ```
 pip install -r requirements.txt
 ```
-3. Model dosyasını indirin:
+4. Model dosyasını indirin:
 Aşağıdaki modeli indirip roop dizinine yerleştirin:
 
 inswapper_128.onnx
