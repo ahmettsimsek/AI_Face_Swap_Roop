@@ -2,6 +2,9 @@
 
 ## <img width="451" alt="Image" src="https://github.com/user-attachments/assets/1e086436-2d25-4b65-b1e7-8ab964c858e5" />
 
+## with
+ https://github.com/s0md3v/roop
+
 # 🤖 AI Face Swap with Roop
 
 Bu proje, komut satırı üzerinden çalışan Roop tabanlı bir AI yüz değiştirme sistemidir. Görseller ve videolar üzerinde yüz değişimi yapar ve esnek parametre desteği ile özelleştirilebilir çıktılar sunar.
