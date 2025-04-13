@@ -1,5 +1,7 @@
 # AI_Face_Swap_Roop
 
+## <img width="451" alt="Image" src="https://github.com/user-attachments/assets/1e086436-2d25-4b65-b1e7-8ab964c858e5" />
+
 # 🤖 AI Face Swap with Roop
 
 Bu proje, komut satırı üzerinden çalışan Roop tabanlı bir AI yüz değiştirme sistemidir. Görseller ve videolar üzerinde yüz değişimi yapar ve esnek parametre desteği ile özelleştirilebilir çıktılar sunar.
@@ -87,7 +89,7 @@ Hata alırsanız, terminaldeki mesajları dikkatlice inceleyin.
 
 Daha fazla bilgi için orijinal Roop GitHub sayfasını ziyaret edebilirsiniz.
 
-<img width="451" alt="Image" src="https://github.com/user-attachments/assets/1e086436-2d25-4b65-b1e7-8ab964c858e5" />
+
 
 ![Image](https://github.com/user-attachments/assets/1acbe331-f05e-4598-8c9a-3cd4cabfc0b2)
 
