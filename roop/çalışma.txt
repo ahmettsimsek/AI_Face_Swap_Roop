@@ -1,0 +1,1 @@
+C:\Users\Smart-Pc\Desktop\roop>python run.py -s kaynak.jpg -t hedef.jpg -o cikti.jpg --temp-frame-format jpg --temp-frame-quality 100 --many-faces --keep-frames --execution-provider cpu --execution-threads 4
